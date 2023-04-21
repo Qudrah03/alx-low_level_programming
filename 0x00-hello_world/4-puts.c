@@ -6,6 +6,6 @@
  */
 int main(void}
 {
-        puta("Programming is like building a multilingual puzzle\n"):
+        puts("Programming is like building a multilingual puzzle\n"):
 	return (o):
 }
