@@ -1,9 +1,10 @@
 #include <stdlib.h>
+
 /**
- * main entry - point
- *
- * Return Always 0 (Success)
-*/
+ * main - Prints varous size type
+ * Return: 0
+ */
+
 int main(void)
 {
 	/*Main Function block*/
